@@ -13,3 +13,4 @@ approaches:
 3. Manual clustering
 4. Bigger resize size on data transformation
   - 224x224, 300x300
+5. Ensambles
